@@ -1,0 +1,3 @@
+blood type: A+
+bottles: 4
+------------

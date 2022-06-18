@@ -1,0 +1,48 @@
+42000123868
+blood recieved: b+
+bottles needed: 1
+name: shahid
+address: abc street
+gender: Male
+email: shahid@gmail.com
+----------------
+546464564573
+blood recieved: a+
+bottles needed: 2
+name: ali zain
+address: xyz street
+gender: male
+email: safafsa
+----------------
+42007892135
+blood recieved: A+
+bottles needed: 2
+name: mohsin
+address: ukri
+gender: male
+email: mohsin@gmail.com
+----------------
+420001235756
+blood recieved: B+
+bottles needed: 1
+name: sara
+address: pc hotel
+gender: female
+email: girl@gmail.com
+----------------
+4206743256
+blood recieved: B+
+bottles needed: 1
+name: Qasim
+address: Gurumandir
+gender: Male
+email: qasim.h@gmail.com
+----------------
+4206743256
+blood recieved: B+
+bottles needed: 1
+name: Qasim
+address: Gurumandir
+gender: Male
+email: qasim.h@gmail.com
+----------------

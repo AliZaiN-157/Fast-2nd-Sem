@@ -1,0 +1,13 @@
+﻿  BDMS.cpp
+D:\University\Semester2\OOP  Theory\Assignment 3\A3\A3\BDMS.cpp(252,71): warning C4101: 'choice8': unreferenced local variable
+D:\University\Semester2\OOP  Theory\Assignment 3\A3\A3\BDMS.cpp(252,35): warning C4101: 'choice4': unreferenced local variable
+D:\University\Semester2\OOP  Theory\Assignment 3\A3\A3\BDMS.cpp(252,53): warning C4101: 'choice6': unreferenced local variable
+D:\University\Semester2\OOP  Theory\Assignment 3\A3\A3\BDMS.cpp(252,62): warning C4101: 'choice7': unreferenced local variable
+D:\University\Semester2\OOP  Theory\Assignment 3\A3\A3\BDMS.cpp(773,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\University\Semester2\OOP  Theory\Assignment 3\A3\A3\BDMS.cpp(778,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\University\Semester2\OOP  Theory\Assignment 3\A3\A3\BDMS.cpp(876,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\University\Semester2\OOP  Theory\Assignment 3\A3\A3\BDMS.cpp(881,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\University\Semester2\OOP  Theory\Assignment 3\A3\A3\BDMS.cpp(884,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\University\Semester2\OOP  Theory\Assignment 3\A3\A3\BDMS.cpp(1302,23): warning C4101: 'choice3': unreferenced local variable
+D:\University\Semester2\OOP  Theory\Assignment 3\A3\A3\BDMS.cpp(1199): warning C4715: 'Admin::functions': not all control paths return a value
+  A3.vcxproj -> D:\University\Semester2\OOP  Theory\Assignment 3\A3\x64\Debug\A3.exe

@@ -1,0 +1,14 @@
+42001231313435
+A+
+bottles donated: 4
+name: Ali Zain
+address: abc street
+gender: Male
+email: alizain@gmail.com
+permanent illness: N/A
+covid 2019 symptoms: N/A
+recent illness in the past months: N/A
+last donation of blood (in days): 140
+----------------
+
+

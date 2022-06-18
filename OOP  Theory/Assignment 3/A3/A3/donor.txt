@@ -1,0 +1,84 @@
+45424234234
+O
+bottles donated: -858993460
+name: 
+address: abc street
+gender: male
+email: vin.alizain@mgial.com
+permanent illness: no
+covid 2019 symptoms: no
+recent illness in the past months: no
+last donation of blood (in days): 0
+----------------
+
+
+bottles donated: -858993460
+name: 
+address: 
+gender: 
+email: 
+permanent illness: 
+covid 2019 symptoms: 
+recent illness in the past months: 
+last donation of blood (in days): -858993460
+----------------
+
+
+bottles donated: -858993460
+name: 
+address: 
+gender: 
+email: 
+permanent illness: 
+covid 2019 symptoms: 
+recent illness in the past months: 
+last donation of blood (in days): -858993460
+----------------
+
+
+bottles donated: -858993460
+name: 
+address: 
+gender: 
+email: 
+permanent illness: 
+covid 2019 symptoms: 
+recent illness in the past months: 
+last donation of blood (in days): -858993460
+----------------
+
+
+bottles donated: -858993460
+name: 
+address: 
+gender: 
+email: 
+permanent illness: 
+covid 2019 symptoms: 
+recent illness in the past months: 
+last donation of blood (in days): -858993460
+----------------
+
+
+bottles donated: -858993460
+name: 
+address: 
+gender: 
+email: 
+permanent illness: 
+covid 2019 symptoms: 
+recent illness in the past months: 
+last donation of blood (in days): -858993460
+----------------
+4200-12112-3144
+A-
+bottles donated: 2
+name: Ali
+address: abc street
+gender: male
+email: abc@gmail.com
+permanent illness: no
+covid 2019 symptoms: no
+recent illness in the past months: no
+last donation of blood (in days): 131
+----------------
